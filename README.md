@@ -2,7 +2,7 @@
 
 Vi som har gjort spelet heter: Elin Alm, Christian Ågren, Alexander Bryngelsson, Filip Sunnemar, Matin Atai Najafi
 
-Länk till GitHub-demo: https://elinalm.github.io/ColorSplat/
+Länk till GitHub-Pages demo: https://alexbryw.github.io/ColorSplat/
 
 Länk till Github-konton: https://github.com/elinalm
 https://github.com/ChristianAgren
